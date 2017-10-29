@@ -15,3 +15,15 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.success {
+    color: green;
+    padding: 15px;
+    display: none;
+}
+
+.fail {
+    color: red;
+    padding: 15px;
+    display: none;
+}
